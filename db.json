@@ -122,6 +122,34 @@
       "endereco": "Rua Dr. Saturnino, 300 - Centro",
       "city": "Passos",
       "state": "MG"
+    },
+    {
+      "id": 2,
+      "name": "Carraro - Pizzas e Massas Italianas",
+      "image": "/assets/Carraro.jpg",
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "description": "Massa maturada por 48 horas, feita com farinha italiana! Aceitamos pagamentos por pix",
+      "phone": "3021-8198",
+      "email": [],
+      "workingHours": "ALMOÇO: Seg-Sex: 11:00 às 14:00, JANTAR: Ter-Dom: 18:00 às 23:00",
+      "endereco": "Praça Monsenhor Messias Bragança, 171 - Centro",
+      "city": "Passos",
+      "state": "MG"
+    },
+    {
+      "id": 3,
+      "name": "D Luigi Pizzaria",
+      "image": "/assets/Dluigi.jpg",
+      "categoryId": 1,
+      "subcategoryId": 101,
+      "description": "Com a vinda da tradicional família italiana de Veneza para o Brasil em 1938, os avós Faustinoni trouxeram consigo uma receita especial e tradicional da pasta e da verdadeira pizza Italiana. Venha saboreá-la aqui no Dluigi Pizzaria!!",
+      "phone": "99227-5766",
+      "email": [],
+      "workingHours": [],
+      "endereco": "Rua Doutor João Bráulio, 127 - Centro",
+      "city": "Passos",
+      "state": "MG"
     }
   ]
 }
