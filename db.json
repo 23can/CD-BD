@@ -223,20 +223,21 @@
     },
      {
       "id": 9,
-      "name": "Casa de Caldos Bem Feitinho",
-      "image": "/assets/caldos.jpg",
+      "name": "Churrascaria Roda Branca",
+      "image": "/assets/roda.jpg",
       "categoryId": 1,
       "subcategoryId": 104,
-      "description": "A casa foi fundada com foco voltado à preparação de caldos, mas diversificou seu cardápio e ganhou reconhecimento pelo sabor de seus diversos pratos como escondidinhos, porções, frango caipira e batatas recheadas! Outro ponto forte é a qualidade de suas bebidas, em especial suas cachaças e licores.",
-      "phone": "3535211776",
+      "description": "Há mais de 55 anos servindo o melhor churrasco da região! Só na Roda Branca você encontrará uma ampla variedade de carnes da melhor qualidade, além de pratos reconhecidos como os melhores da cidade, como a tradicional parmegiana que dá água na boca de qualquer um.",
+      "phone": "991890298",
       "email": [],
       "workingHours": [],
-      "endereco": "Avenida Comendador Francisco Avelino Maia, 3478",
+      "endereco": " Avenida Juca Stockler, 1975",
       "city": "Passos",
       "state": "MG"
     }
   ]
 }
+
 
 
 
