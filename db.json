@@ -236,7 +236,7 @@
       "state": "MG"
     },
      {
-      "id": 9,
+      "id": 21,
       "name": "Churrascaria Roda Branca",
       "image": "/assets/roda.jpg",
       "categoryId": 1,
@@ -402,9 +402,21 @@
       "endereco": "Avenida Comendador Francisco Avelino Maia, 2749, Centro",
       "city": "Passos",
       "state": "MG"
+    },
+    {
+      "id": 22,
+      "name": "Instituto Odontológico Adib Cabal",
+      "image": "/assets/Adib.jpg",
+      "categoryId": 2,
+      "subcategoryId": 202,
+      "description": "Seu novo sorriso, da nossa família para a sua.",
+      "phone": "3534131796",
+      "email": [],
+      "workingHours": [],
+      "endereco": "Avenida Comendador Francisco Avelino Maia, 3770, Centro",
+      "city": "Passos",
+      "state": "MG"
     }
-    
-    
     
   ]
 }
