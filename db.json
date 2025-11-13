@@ -262,78 +262,8 @@
       "endereco": " Avenida Juca Stockler, 531",
       "city": "Passos",
       "state": "MG"
-    },
-    {
-      "id": 11,
-      "name": "Kampai",
-      "image": "/assets/Kampai.jpg",
-      "categoryId": 1,
-      "subcategoryId": 105,
-      "description": "Atuando a anos na região com o melhor Sushi!",
-      "phone": "999517750",
-      "email": [],
-      "workingHours": [],
-      "endereco": "Travessa Monsenhor João Pedro, 111 - Centro",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
-      "id": 12,
-      "name": "Bando Temakeria e Sushi Bar",
-      "image": "/assets/bando.jpg",
-      "categoryId": 1,
-      "subcategoryId": 105,
-      "description": "Temakeria e Sushi Bar de primeira!",
-      "phone": "35225421",
-      "email": [],
-      "workingHours": [],
-      "endereco": "Avenida da Moda, 3573, Centro.",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
-      "id": 13,
-      "name": "Kebab Passos",
-      "image": "/assets/KebabP.jfif",
-      "categoryId": 1,
-      "subcategoryId": 106,
-      "description": "Kebab é uma comida de origem árabe. Um novo modelo de lanche, com churrasco em fatias, envolto em uma fina camada de pão e entremeados com vegetais.",
-      "phone": "35998453535",
-      "email": "kebab.passos@gmail.com",
-      "workingHours": [],
-      "endereco": "Av. Comendador Francisco Avelino Maia, 3646, Muarama",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
-      "id": 14,
-      "name": "Palitus Sorvetes",
-      "image": "/assets/Palitus.jpg",
-      "categoryId": 1,
-      "subcategoryId": 107,
-      "description": "Nossa missão é fabricar produtos com muito amor e sabor, para conquistar você com a nossa qualidade diferenciada!",
-      "phone": "3535223411",
-      "email": "felipepalitus@gmail.com",
-      "workingHours": [],
-      "endereco": "Rua Joaquim Piantino, 111 - São Benedito",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
-      "id": 15,
-      "name": "Mangutti Açaí",
-      "image": "/assets/Mangutti.jpg",
-      "categoryId": 1,
-      "subcategoryId": 107,
-      "description": "O açaí é uma fruta típica do Norte do Brasil, que ganhou adeptos em todo o território Nacional. Em Passos, você pode se deliciar com o autêntico sabor do Açaí aqui no Mangutti!",
-      "phone": "3534132021",
-      "email": "lilian_fargalla@hotmail.com",
-      "workingHours": [],
-      "endereco": "Praça Monsenhor Messias Bragança, 209 - Centro",
-      "city": "Passos",
-      "state": "MG"
     }
-    
   ]
 }
+
 
