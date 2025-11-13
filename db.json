@@ -234,36 +234,9 @@
       "endereco": "Avenida Comendador Francisco Avelino Maia, 3478",
       "city": "Passos",
       "state": "MG"
-    },
-     {
-      "id": 21,
-      "name": "Churrascaria Roda Branca",
-      "image": "/assets/roda.jpg",
-      "categoryId": 1,
-      "subcategoryId": 104,
-      "description": "Há mais de 55 anos servindo o melhor churrasco da região! Só na Roda Branca você encontrará uma ampla variedade de carnes da melhor qualidade, além de pratos reconhecidos como os melhores da cidade, como a tradicional parmegiana que dá água na boca de qualquer um.",
-      "phone": "991890298",
-      "email": [],
-      "workingHours": [],
-      "endereco": " Avenida Juca Stockler, 1975",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
-      "id": 10,
-      "name": "Satoshy Sushi Bar",
-      "image": "/assets/Satoshy.jpg",
-      "categoryId": 1,
-      "subcategoryId": 105,
-      "description": "O melhor da gastronomia japonesa! Restaurante japonês com rodízio de sushis, sashimis e pratos quentes.",
-      "phone": "3535229602",
-      "email": "satoshysushibar@outlook.com",
-      "workingHours": [],
-      "endereco": " Avenida Juca Stockler, 531",
-      "city": "Passos",
-      "state": "MG"
     }
   ]
 }
+
 
 
