@@ -1,0 +1,126 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Alimentação e Delivery",
+      "image": "/assets/moto.png",
+      "subcategories": [
+        { "id": 101, "name": "Pizzarias", "image": "/assets/pizza.png" },
+        { "id": 102, "name": "Hamburguerias e Lanchonetes", "image": "/assets/burguer.png" },
+        { "id": 103, "name": "Padarias", "image": "/assets/padaria.png" },
+        { "id": 104, "name": "Restaurantes", "image": "/assets/restaurante.png" },
+        { "id": 105, "name": "Comida Japonesa", "image": "/assets/sushi.png" },
+        { "id": 106, "name": "Comida Árabe", "image": "/assets/kebab.png" },
+        { "id": 107, "name": "Sorvetes e Açaí", "image": "/assets/sorvete.png" },
+        { "id": 108, "name": "Confeitarias", "image": "/assets/bolo.png" },
+        { "id": 109, "name": "Cerveja e Chopp", "image": "/assets/cerveja.png" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Saúde",
+      "image": "/assets/saude.png",
+      "subcategories": [
+        { "id": 201, "name": "Cardiologista", "image": "/assets/saude.png" },
+        { "id": 202, "name": "Dentistas", "image": "/assets/Dentista.png" },
+        { "id": 203, "name": "Farmácias/Drogarias", "image": "/assets/farmacia.png" },
+        { "id": 204, "name": "Fisioterapia", "image": "/assets/fisio.png" },
+        { "id": 205, "name": "Nutrição", "image": "/assets/nutri.png" },
+        { "id": 206, "name": "Hospitais e Unidades de Saúde", "image": "/assets/hospital.png" },
+        { "id": 207, "name": "Oftalmologia", "image": "/assets/olho.png" },
+        { "id": 208, "name": "Psicologia", "image": "/assets/psico.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Esporte",
+      "image": "/assets/esporte.png",
+      "subcategories": [
+        { "id": 301, "name": "Academia de Musculação", "image": "/assets/academia.png" },
+        { "id": 302, "name": "Natação", "image": "/assets/esporte.png" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Turismo",
+      "image": "/assets/turismo.png",
+      "subcategories": [
+        { "id": 401, "name": "Agências de Turismo", "image": "/assets/turismo.png" },
+        { "id": 402, "name": "Hotéis/Pousadas", "image": "/assets/hotel.png" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Automotivo",
+      "image": "/assets/carro.png",
+      "subcategories": [
+        { "id": 501, "name": "Auto Escola", "image": "/assets/pare.png" },
+        { "id": 502, "name": "Oficina Mecânica", "image": "/assets/mec.png" },
+        { "id": 503, "name": "Postos de Gasolina", "image": "/assets/posto.png" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Mercados",
+      "image": "/assets/super.png",
+      "subcategories": []
+    },
+    {
+      "id": 7,
+      "name": "Advocacia",
+      "image": "/assets/direito.png",
+      "subcategories": []
+    },
+    {
+      "id": 8,
+      "name": "Imóveis",
+      "image": "/assets/imo.png",
+      "subcategories": []
+    },
+    {
+      "id": 9,
+      "name": "Construção",
+      "image": "/assets/constru.png",
+      "subcategories": [
+        { "id": 901, "name": "Arquitetura e Engenharia", "image": "/assets/plan.png" },
+        { "id": 902, "name": "Materiais de Construção", "image": "/assets/mat.png" },
+        { "id": 903, "name": "Tintas", "image": "/assets/tinta.png" },
+        { "id": 904, "name": "Serralherias", "image": "/assets/serra.png" }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Moda",
+      "image": "/assets/suit.png",
+      "subcategories": [
+        { "id": 1001, "name": "Roupas", "image": "/assets/dress.png" },
+        { "id": 1002, "name": "Moda Infantil", "image": "/assets/c.png" },
+        { "id": 1003, "name": "Jóias", "image": "/assets/ring.png" }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Serviços para Pets",
+      "image": "/assets/dawg.png",
+      "subcategories": [
+        { "id": 1101, "name": "Rações, Banho e Tosa", "image": "/assets/rac.png" },
+        { "id": 1102, "name": "Clínicas Veterinárias", "image": "/assets/dawg.png" }
+      ]
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "CPN - Clube Passense de Natação",
+      "image": "/assets/CPN.jpg",
+      "categoryId": 3,
+      "subcategoryId": 302,
+      "description": "O CPN - Clube Passense de Natação é tradicionalíssimo na cidade de Passos, tendo originado em 1935, e oferece estruturas como quadras, academias, hosteia eventos, claro, além de muitas piscinas e aulas de natação.",
+      "phone": "3535291500",
+      "email": [],
+      "workingHours": "Seg-Dom: 06:00 às 23:00",
+      "city": "Passos",
+      "state": "MG"
+    }
+  ]
+}
