@@ -76,8 +76,7 @@
     "image": "/assets/suit.png",
     "subcategories": [
       { "id": 1001, "name": "Roupas", "image": "/assets/dress.png" },
-      { "id": 1002, "name": "Moda Infantil", "image": "/assets/c.png" },
-      { "id": 1003, "name": "Jóias", "image": "/assets/ring.png" }
+      { "id": 1002, "name": "Moda Infantil", "image": "/assets/c.png" }
     ]
   },
   {
@@ -285,6 +284,7 @@
     }
   ]
 }
+
 
 
 
