@@ -117,20 +117,6 @@
 ],
   "companies": [
     {
-      "id": 1,
-      "name": "CPN - Clube Passense de Natação",
-      "image": "/assets/CPN.jpg",
-      "categoryId": 3,
-      "subcategoryId": 302,
-      "description": "O CPN - Clube Passense de Natação é tradicionalíssimo na cidade de Passos, tendo originado em 1935, e oferece estruturas como quadras, academias, hosteia eventos, claro, além de muitas piscinas e aulas de natação.",
-      "phone": "3535291500",
-      "email": [],
-      "workingHours": "Seg-Dom: 06:00 às 23:00",
-      "endereco": "Rua Dr. Saturnino, 300 - Centro",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
       "id": 2,
       "name": "Carraro - Pizzas e Massas Italianas",
       "image": "/assets/Carraro.jpg",
@@ -272,6 +258,7 @@
     }
   ]
 }
+
 
 
 
