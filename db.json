@@ -86,7 +86,7 @@
       { "id": 203, "name": "Farmácias/Drogarias", "image": "/assets/farmacia.png" },
       { "id": 204, "name": "Fisioterapia", "image": "/assets/fisio.png" },
       { "id": 205, "name": "Nutrição", "image": "/assets/nutri.png" },
-      { "id": 206, "name": "Hospitais e Unidades de Saúde", "image": "/assets/hospital.png" }
+      { "id": 206, "name": "Hospitais e Unidades de Saúde", "image": "/assets/hospital.png" },
       { "id": 208, "name": "Psicologia", "image": "/assets/psico.png" }
     ]
   },
@@ -280,6 +280,7 @@
     }
   ]
 }
+
 
 
 
