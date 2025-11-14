@@ -28,8 +28,7 @@
     "image": "/assets/carro.png",
     "subcategories": [
       { "id": 501, "name": "Auto Escola", "image": "/assets/pare.png" },
-      { "id": 502, "name": "Oficina Mecânica", "image": "/assets/mec.png" },
-      { "id": 503, "name": "Postos de Gasolina", "image": "/assets/posto.png" }
+      { "id": 502, "name": "Oficina Mecânica", "image": "/assets/mec.png" }
     ]
   },
   {
@@ -39,8 +38,7 @@
     "subcategories": [
       { "id": 901, "name": "Arquitetura e Engenharia", "image": "/assets/plan.png" },
       { "id": 902, "name": "Materiais de Construção", "image": "/assets/mat.png" },
-      { "id": 903, "name": "Tintas", "image": "/assets/tinta.png" },
-      { "id": 904, "name": "Serralherias", "image": "/assets/serra.png" }
+      { "id": 903, "name": "Tintas", "image": "/assets/tinta.png" }
     ]
   },
   {
@@ -284,6 +282,7 @@
     }
   ]
 }
+
 
 
 
