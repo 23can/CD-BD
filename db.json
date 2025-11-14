@@ -187,20 +187,6 @@
       "state": "MG"
     },
     {
-      "id": 6,
-      "name": "Padaria El Sino",
-      "image": "/assets/Elsino.jpg",
-      "categoryId": 1,
-      "subcategoryId": 103,
-      "description": "Cookies, Pães de queijo, Bolos, Salgados, Roscas, Tortas, Pães e muito mais",
-      "phone": "3530218655",
-      "email": [],
-      "workingHours": [],
-      "endereco": "Rua Tenente Vasconcelos, 337 - Centro",
-      "city": "Passos",
-      "state": "MG"
-    },
-    {
       "id": 7,
       "name": "Vino ! Wine Bar ",
       "image": "/assets/Vino.jpg",
@@ -286,6 +272,7 @@
     }
   ]
 }
+
 
 
 
