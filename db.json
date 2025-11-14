@@ -268,9 +268,24 @@
       "endereco": "Rua Joaquim Piantino, 111 - São Benedito",
       "city": "Passos",
       "state": "MG"
+    },
+    {
+      "id": 13,
+      "name": "Sônia Confeitaria",
+      "image": "/assets/Sonia.jpeg",
+      "categoryId": 1,
+      "subcategoryId": 108,
+      "description": "Os melhores bolos!",
+      "phone": "988786591",
+      "email": [],
+      "workingHours": [],
+      "endereco": "Rua Onze de Dezembro, 125",
+      "city": "Passos",
+      "state": "MG"
     }
   ]
 }
+
 
 
 
