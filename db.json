@@ -37,8 +37,7 @@
     "image": "/assets/constru.png",
     "subcategories": [
       { "id": 901, "name": "Arquitetura e Engenharia", "image": "/assets/plan.png" },
-      { "id": 902, "name": "Materiais de Construção", "image": "/assets/mat.png" },
-      { "id": 903, "name": "Tintas", "image": "/assets/tinta.png" }
+      { "id": 902, "name": "Materiais de Construção", "image": "/assets/mat.png" }
     ]
   },
   {
@@ -87,8 +86,7 @@
       { "id": 203, "name": "Farmácias/Drogarias", "image": "/assets/farmacia.png" },
       { "id": 204, "name": "Fisioterapia", "image": "/assets/fisio.png" },
       { "id": 205, "name": "Nutrição", "image": "/assets/nutri.png" },
-      { "id": 206, "name": "Hospitais e Unidades de Saúde", "image": "/assets/hospital.png" },
-      { "id": 207, "name": "Oftalmologia", "image": "/assets/olho.png" },
+      { "id": 206, "name": "Hospitais e Unidades de Saúde", "image": "/assets/hospital.png" }
       { "id": 208, "name": "Psicologia", "image": "/assets/psico.png" }
     ]
   },
@@ -282,6 +280,7 @@
     }
   ]
 }
+
 
 
 
